@@ -1,0 +1,4 @@
+image_name,TP,FP,TN,FN,IOU,sensitivity,specificity,precision
+image_1.down-4.png       , 577, 548, 7675, 109,0.468,0.841,0.924,0.479
+image_2.down-4.png       ,1273,1160, 5573, 354,0.457,0.782,0.813,0.499
+image_3.down-4.png       ,2330,2412,14190, 673,0.430,0.776,0.842,0.467
